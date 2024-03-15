@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>挥金如土曼沙穆萨Super Purchaser Mansa Musa</Name>
+    <Guid>f9a1cb9c-fa19-44dd-ac7d-35bc59dc0a71</Guid>
+    <ProjectGuid>ebdefdc1-b358-4e61-822e-a5e6fe1fe01e</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>挥金如土曼沙穆萨Super Purchaser Mansa Musa</Teaser>
+    <Description>加强了沙漠地貌为商路提供的收益，用信仰可以购买更多东西。</Description>
+    <Authors>wldcmzy</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
+</Associations>]]></AssociationData>
+    <AssemblyName>SuperPurchaserLEADER_MANSA_MUSA</AssemblyName>
+    <RootNamespace>SuperPurchaserLEADER_MANSA_MUSA</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="sql"><File>_.sql</File></UpdateDatabase><AddGameplayScripts id="lua"><File>_.lua</File></AddGameplayScripts><UpdateText id="text"><File>_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="DB"><File>_cfg.xml</File></UpdateDatabase><UpdateText id="TXT"><File>_Text.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="SuperPurchaserLEADER_MANSA_MUSA.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="_cfg.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="_.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="_.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

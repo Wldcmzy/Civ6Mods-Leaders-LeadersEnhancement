@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- text -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/21/2024 3:52:29 PM -->
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_TRAIT_MOD_LEADER_QIN_SUPER_BUILDER_NAME" Language="zh_Hans_CN">
+			<Text>兴建者</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_MOD_LEADER_QIN_SUPER_BUILDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>老秦的建造者和大部分改良设施变得非常牛逼。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_LEADER_QIN_SUPER_BUILDER_MORE_MOVEMENT_BUFF_NAME" Language="zh_Hans_CN">
+			<Text>神行</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_LEADER_QIN_SUPER_BUILDER_MORE_MOVEMENT_BUFF_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+5 [ICON_Movement] 移动力</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# ModBuddy Solution File, Format Version 12.00
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "Super_Purchaser_LEADER_MANSA_MUSA", "SuperPurchaserLEADER_MANSA_MUSA\Super_Purchaser_LEADER_MANSA_MUSA.civ6proj", "{EBDEFDC1-B358-4E61-822E-A5E6FE1FE01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Civ6 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDEFDC1-B358-4E61-822E-A5E6FE1FE01E}.Default|Civ6.ActiveCfg = Default|Civ6
+		{EBDEFDC1-B358-4E61-822E-A5E6FE1FE01E}.Default|Civ6.Build.0 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

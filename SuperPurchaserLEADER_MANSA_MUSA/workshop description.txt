@@ -1,0 +1,32 @@
+[h1]挥金如土曼沙穆萨[/h1]
+
+本mod对领袖曼沙·穆萨进行了加强。
+
+本mod需要资料片：风云变幻。
+
+[h2]调整内容[/h2]
+
+现在曼沙穆萨可以使用信仰购买建筑、军事单位、平民单位和间谍。
+
+沙漠丘陵也可以为外商提供+1金币。
+
+沙漠平原改为为外商提供+2金币。
+
+在每个回合开始时，国库的金币增加3%.
+
+
+[h1]Mansa Musa the Super Purchaser[/h1]
+
+This mod enhances the leader Mansa Musa.
+
+This mod requires the expansion pack: "Gathering Storm".
+
+[h2]Adjustments[/h2]
+
+Mansa Musa can now purchase buildings, Civilian units, Military units and Spy with Faith. 
+
+Desert Hills tile also provide +1 Gold for foreign traders. 
+
+Flat Desert tile now provide +2 Gold for foreign traders. 
+
+At the beginning of each turn, the Treasury gains +3% Gold.

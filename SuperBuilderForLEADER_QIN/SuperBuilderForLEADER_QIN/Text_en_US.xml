@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- text -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 2/21/2024 3:52:39 PM -->
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_TRAIT_MOD_LEADER_QIN_SUPER_BUILDER_NAME" Language="en_US">
+			<Text>Super Builder</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_MOD_LEADER_QIN_SUPER_BUILDER_DESCRIPTION" Language="en_US">
+			<Text>Qin's builders and almost improments become very overpowered.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_LEADER_QIN_SUPER_BUILDER_MORE_MOVEMENT_BUFF_NAME" Language="en_US">
+			<Text>Rapid</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_LEADER_QIN_SUPER_BUILDER_MORE_MOVEMENT_BUFF_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Movement] Movement</Text> 
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

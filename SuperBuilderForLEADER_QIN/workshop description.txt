@@ -1,0 +1,92 @@
+[spoiler][b]奇观不误国，改良更超模，建您想建，抢您想抢！[/b][/spoiler]
+
+[h1]老秦的超级工人[/h1]
+
+本mod对领袖秦始皇（天命者）进行了加强。
+
+本mod需要资料片：风云变幻。
+
+[h2]对建造者单位做出的调整[/h2]
+
+建造次数调整：额外+96
+
+移动力调整：额外+5
+
+奇观加速值调整：15% -> 17%
+
+现在老秦可以加速全时代的奇观。
+
+[h2]对改良设施做出的调整[/h2]
+
+以下改良设施额外+1食物：
+IMPROVEMENT_FARM（农场）
+IMPROVEMENT_PLANTATION（种植园）
+
+以下改良设施额外+1产能：
+IMPROVEMENT_MINE（矿山）
+IMPROVEMENT_QUARRY（采石场）
+IMPROVEMENT_LUMBER_MILL（伐木场）
+
+以下改良设施额外+2产能：
+IMPROVEMENT_OIL_WELL（油井）
+IMPROVEMENT_OFFSHORE_OIL_RIG（海上油井）
+IMPROVEMENT_WIND_FARM（风电站）
+IMPROVEMENT_SOLAR_FARM（太阳能电站/农场）
+IMPROVEMENT_OFFSHORE_WIND_FARM（离岸风电站）
+IMPROVEMENT_GEOTHERMAL_PLANT（地热发电站）
+
+以下改良设施额外+1粮食+1产能：
+IMPROVEMENT_FISHING_BOATS （渔船）
+IMPROVEMENT_PASTURE（牧场）
+IMPROVEMENT_CAMP（营地）
+IMPROVEMENT_FISHERY（渔场）
+
+以下改良设施额外+1金币+1文化：
+IMPROVEMENT_BEACH_RESORT（海滨度假区）
+IMPROVEMENT_GREAT_WALL（长城）
+
+
+[h1]SuperBuilder for Qin[/h1]
+
+This mod enhances the leader Qin (Mandate of Heaven).
+
+This mod requires the expansion pack: "Gathering Storm".
+
+[h2]Adjustments to Builder Units[/h2]
+
+Build Charges Adjustment: +96 additional charges
+
+Movement Adjustment: +5 additional movement points
+
+Wonder Percent Boost Adjustment: 15% -> 17%
+
+Now wonders from all eras can be boosted.
+
+[h2]Adjustments to Improvements[/h2]
+
+The following improvements yield +1 additional Food:
+Farm 
+Plantation
+
+The following improvements yield +1 additional Production:
+Mine 
+Quarry 
+Lumber Mill
+
+The following improvements yield +2 additional Production:
+Oil Well 
+Offshore Oil Rig 
+Wind Farm 
+Solar Farm 
+Offshore Wind Farm 
+Geothermal Plant
+
+The following improvements yield +1 additional Food and +1 additional Production:
+Fishing Boats 
+Pasture 
+Camp 
+Fishery
+
+The following improvements yield +1 additional Gold and +1 additional Culture:
+Beach Resort 
+Great Wall

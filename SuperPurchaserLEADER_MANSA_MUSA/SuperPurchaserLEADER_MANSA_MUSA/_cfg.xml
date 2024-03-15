@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- _cfg -->
+<!-- Author: wldcmzy -->
+<!-- DateCreated: 3/13/2024 3:00:26 PM -->
+<GameData>
+	<PlayerItems>
+		<Row Domain="Players:Expansion2_Players" 
+			 CivilizationType="CIVILIZATION_MALI" 
+			 LeaderType="LEADER_MANSA_MUSA" 
+			 Type="TRAIT_LEADER_MANSA_MUSA_SUPER_PURCHASER" 
+			 Icon="ICON_CIVILIZATION_MALI"
+			 Name="LOC_TRAIT_LEADER_MANSA_MUSA_SUPER_PURCHASER_NAME" 
+			 Description="LOC_TRAIT_LEADER_MANSA_MUSA_SUPER_PURCHASER_DESCRIPTION" 
+			 SortIndex="5"
+		/>
+	</PlayerItems>
+</GameData>
